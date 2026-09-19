@@ -108,3 +108,13 @@ streamlit run app/streamlit_app.py
 8. Ethical considerations (false positives, bias against non-native writing
    styles, arms-race dynamics)
 9. Future work (multi-class model attribution, hybrid human+AI detection)
+
+---
+
+## Author
+
+**PRITKUMAR PATEL**
+
+## GitHub
+
+https://github.com/preetpate

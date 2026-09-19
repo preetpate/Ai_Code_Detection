@@ -1,0 +1,12 @@
+[
+  {"id": "p001", "statement": "Write a function that returns the nth Fibonacci number using memoization."},
+  {"id": "p002", "statement": "Write a function that checks whether a given string is a valid palindrome, ignoring non-alphanumeric characters and case."},
+  {"id": "p003", "statement": "Write a function that merges two sorted linked lists into one sorted linked list."},
+  {"id": "p004", "statement": "Write a function that finds all pairs in an array of integers that sum to a target value."},
+  {"id": "p005", "statement": "Write a function to detect if a directed graph contains a cycle, given an adjacency list."},
+  {"id": "p006", "statement": "Write a function that implements binary search on a sorted array."},
+  {"id": "p007", "statement": "Write a function that computes the longest common subsequence of two strings."},
+  {"id": "p008", "statement": "Write a function that flattens an arbitrarily nested list of lists into a single flat list."},
+  {"id": "p009", "statement": "Write a function that validates whether a given string of brackets is balanced."},
+  {"id": "p010", "statement": "Write a function implementing a basic LRU cache with get and put operations."}
+]
